@@ -8,14 +8,14 @@
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.4",
     "ejs": "^3.0.1",
-    "ejs-mate": "^3.0.0",
+    "ejs-mate": "^4.0.0",
     "express": "^4.16.4",
     "express-session": "^1.17.0",
-    "jsonwebtoken": "^7.1.9",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^5.3.10",
     "morgan": "^1.7.0",
-    "nodemailer": "^2.6.0",
-    "passport": "^0.4.1",
+    "nodemailer": "^6.9.9",
+    "passport": "^0.7.0",
     "randomstring": "^1.1.5"
   }
 }
